@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PathFinderModel": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
